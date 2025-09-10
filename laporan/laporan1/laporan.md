@@ -91,10 +91,10 @@ Controller: Penghubung antara model dan view, berisi logika aplikasi.
 ## 6. Kelebihan & Kekurangan 
 
 * Kelebihan Laravel
-Laravel memiliki dokumentasi lengkap dan komunitas besar, memudahkan mahasiswa maupun pengembang dalam mencari referensi dan solusi. Struktur kode berbasis Model-View-Controller (MVC) membuat aplikasi terorganisir, rapi, dan mudah dipelihara. Fitur bawaan seperti routing, autentikasi, Eloquent ORM, dan Blade templating mempercepat pengembangan. Framework ini mendukung praktik modern dan efisien, cocok untuk proyek skala kecil maupun besar.
+Laravel dikenal memiliki dokumentasi yang sangat lengkap dan komunitas yang aktif. Hal ini membuat proses belajar maupun pengembangan aplikasi menjadi lebih mudah. Struktur kodenya berbasis Model-View-Controller (MVC) sehingga proyek dapat tersusun dengan rapi dan lebih teratur. Selain itu, Laravel sudah menyediakan banyak fitur bawaan seperti routing, autentikasi, Eloquent ORM, dan Blade templating yang dapat mempercepat proses pembuatan aplikasi. Dengan dukungan tersebut, Laravel dapat digunakan baik untuk aplikasi sederhana maupun proyek yang berskala besar.
 
 * Kekurangan / Tantangan untuk Pemula
-Pemahaman dasar Object-Oriented Programming (OOP) dan PHP modern diperlukan agar tidak mengalami kesulitan. Struktur folder yang kompleks dapat membingungkan pengguna baru, dan Laravel cenderung lebih berat dibanding framework PHP ringan, sehingga memerlukan spesifikasi perangkat yang memadai.
+Untuk memanfaatkan Laravel secara optimal, dibutuhkan pemahaman dasar tentang konsep Object-Oriented Programming (OOP) serta PHP versi modern. Bagi pemula, struktur folder yang cukup kompleks bisa terasa membingungkan di awal. Selain itu, karena memiliki banyak fitur, Laravel umumnya membutuhkan sumber daya perangkat yang lebih besar dibanding framework PHP yang lebih ringan.
 
 ---
 
